@@ -1,0 +1,17 @@
+{
+  "name": "Webradio",
+  "identifier": "com.christopherkarger.webradio",
+  "apps": [
+    {
+      "name": "Webradio",
+      "bundleIdentifier": "com.christopherkarger.webradio",
+      "developerName": "Christopher Karger",
+      "version": "1.0.0",
+      "downloadURL": "https://dein-server.com/meineapp.ipa",
+      "iconURL": "https://dein-server.com/icon.png",
+      "tintColor": "007AFF",
+      "subtitle": "Super tolles webradio",
+      "description": "Das ist ein super Webradion"
+    }
+  ]
+}
