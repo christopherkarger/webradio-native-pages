@@ -11,7 +11,8 @@
       "iconURL": "ttps://christopherkarger.github.io/webradio-native-pages/icon.png",
       "tintColor": "007AFF",
       "subtitle": "Super tolles webradio",
-      "description": "Das ist ein super Webradion"
+      "description": "Das ist ein super Webradio",
+      "localizedDescription": "Das ist ein super Webradio"
     }
   ]
 }
