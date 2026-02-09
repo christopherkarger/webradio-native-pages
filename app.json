@@ -7,8 +7,8 @@
       "bundleIdentifier": "com.christopherkarger.webradio",
       "developerName": "Christopher Karger",
       "version": "1.0.0",
-      "downloadURL": "https://dein-server.com/meineapp.ipa",
-      "iconURL": "https://dein-server.com/icon.png",
+      "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/webradio.ipa",
+      "iconURL": "ttps://christopherkarger.github.io/webradio-native-pages/icon.png",
       "tintColor": "007AFF",
       "subtitle": "Super tolles webradio",
       "description": "Das ist ein super Webradion"
