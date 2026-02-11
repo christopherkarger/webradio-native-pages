@@ -17,9 +17,9 @@
           "buildVersion": "1",
           "date": "2026-02-11T17:03:00+01:00",
           "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/Webradio.ipa",
-          "localizedDescription": "AutoPlay",
+          "localizedDescription": "AutoPlay and new API",
           "version": "1.0.0",
-          "size": 13299149
+          "size": 13299811
         }
       ]
     }
