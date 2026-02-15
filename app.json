@@ -15,11 +15,11 @@
       "versions": [
         {
           "buildVersion": "1",
-          "date": "2026-02-13T10:41:00+01:00",
+          "date": "2026-02-15T1:12:00+01:00",
           "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/Webradio.ipa",
-          "localizedDescription": "Style update again",
+          "localizedDescription": "Simpler",
           "version": "1.0.0",
-          "size": 13360923
+          "size": 14059769
         }
       ]
     }
