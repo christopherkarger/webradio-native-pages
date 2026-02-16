@@ -15,11 +15,11 @@
       "versions": [
         {
           "buildVersion": "1",
-          "date": "2026-02-16T1:08:41+01:00",
+          "date": "2026-02-16T1:09:01+01:00",
           "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/Webradio.ipa",
-          "localizedDescription": "Airplay",
+          "localizedDescription": "Airplay - fix",
           "version": "1.0.0",
-          "size": 13611176
+          "size": 13610956
         }
       ]
     }
