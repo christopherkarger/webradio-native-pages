@@ -14,20 +14,20 @@
       "localizedDescription": "Das ist ein super Webradio",
       "versions": [
         {
-          "buildVersion": "1",
-          "date": "2026-02-16T1:09:01+01:00",
-          "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/1.ipa",
-          "localizedDescription": "Airplay - fix",
-          "version": "1.0.0",
-          "size": 13610956
-        },
-        {
           "buildVersion": "2",
           "date": "2026-02-19T1:15:21+01:00",
           "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/2.ipa",
           "localizedDescription": "Added Favorites",
           "version": "2.0.0",
           "size": 13724576
+        },
+        {
+          "buildVersion": "1",
+          "date": "2026-02-16T1:09:01+01:00",
+          "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/1.ipa",
+          "localizedDescription": "Airplay - fix",
+          "version": "1.0.0",
+          "size": 13610956
         }
       ]
     }
