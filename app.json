@@ -14,6 +14,14 @@
       "localizedDescription": "Das ist ein super Webradio",
       "versions": [
         {
+          "version": "3.0.0",
+          "buildVersion": "3",
+          "date": "2026-02-19T1:18:30+01:00",
+          "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/3.ipa",
+          "localizedDescription": "Open favs in youtube",
+          "size": 13724715
+        },
+        {
           "version": "2.0.0",
           "buildVersion": "2",
           "date": "2026-02-19T1:16:15+01:00",
