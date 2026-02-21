@@ -14,20 +14,20 @@
       "localizedDescription": "Das ist ein super Webradio",
       "versions": [
         {
+          "version": "6.0.0",
+          "buildVersion": "6",
+          "date": "2026-02-21T1:11:43+01:00",
+          "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/4.ipa",
+          "localizedDescription": "Clean title",
+          "size": 13725807
+        },
+        {
           "version": "5.0.0",
           "buildVersion": "5",
           "date": "2026-02-20T1:08:18+01:00",
           "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/5.ipa",
           "localizedDescription": "Style, fixes etc.",
           "size": 13725587
-        },
-        {
-          "version": "4.0.0",
-          "buildVersion": "4",
-          "date": "2026-02-19T1:18:48+01:00",
-          "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/4.ipa",
-          "localizedDescription": "Open favs in youtube - fix",
-          "size": 13724660
         }
       ]
     }
