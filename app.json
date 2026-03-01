@@ -14,20 +14,20 @@
       "localizedDescription": "Das ist ein super Webradio",
       "versions": [
         {
+          "version": "7.0.0",
+          "buildVersion": "7",
+          "date": "2026-03-26T1:11:50+01:00",
+          "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/7.ipa",
+          "localizedDescription": "Youtube music link",
+          "size": 13725534
+        },
+        {
           "version": "6.0.0",
           "buildVersion": "6",
           "date": "2026-02-21T1:11:43+01:00",
           "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/6.ipa",
           "localizedDescription": "Clean title",
           "size": 13725807
-        },
-        {
-          "version": "5.0.0",
-          "buildVersion": "5",
-          "date": "2026-02-20T1:08:18+01:00",
-          "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/5.ipa",
-          "localizedDescription": "Style, fixes etc.",
-          "size": 13725587
         }
       ]
     }
