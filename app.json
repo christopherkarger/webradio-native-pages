@@ -14,6 +14,14 @@
       "localizedDescription": "Das ist ein super Webradio",
       "versions": [
         {
+          "version": "8.0.0",
+          "buildVersion": "8",
+          "date": "2026-03-26T09:10:00+01:00",
+          "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/8.ipa",
+          "localizedDescription": "Firebase",
+          "size": 19722800
+        },
+        {
           "version": "7.0.0",
           "buildVersion": "7",
           "date": "2026-03-01T01:11:50+01:00",
