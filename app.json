@@ -16,10 +16,10 @@
         {
           "version": "8.0.0",
           "buildVersion": "8",
-          "date": "2026-03-27T07:07:57+01:00",
+          "date": "2026-03-27T07:14:50+01:00",
           "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/8.ipa",
-          "localizedDescription": "Firebase Login persistent + fix1",
-          "size": 19710715
+          "localizedDescription": "Debugging",
+          "size": 28664699
         },
         {
           "version": "7.0.0",
