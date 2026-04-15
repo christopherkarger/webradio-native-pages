@@ -11,7 +11,7 @@
       "tintColor": "007AFF",
       "subtitle": "Super tolles webradio",
       "description": "Das ist ein super Webradio",
-      "localizedDescription": "2026-04-15T10:43:20+02:00",
+      "localizedDescription": "2026-04-15T10:59:43+02:00",
       "versions": [
         {
           "version": "8.0.0",
@@ -32,10 +32,10 @@
         {
           "version": "6.0.0",
           "buildVersion": "6",
-          "date": "2026-02-21T01:11:43+01:00",
+          "date": "2026-04-15T10:59:43+02:00",
           "downloadURL": "https://christopherkarger.github.io/webradio-native-pages/versions/6.ipa",
           "localizedDescription": "Clean title",
-          "size": 13725807
+          "size": 19729567
         }
       ]
     }
